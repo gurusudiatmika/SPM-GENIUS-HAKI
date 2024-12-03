@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SPM - Genius HAKI" />
+              <option name="title_text" value="SPM - Genius HAKI v.2" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1421,7 +1421,7 @@
   </nav_data>
   <resource_data description="&lt;p align='left'&gt;&lt;font face='Open Sans' style='font-size: 11px;' size='11' color='#444444'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;">
     <resources>
-      <resource url="story_content/external_files/Lights(chosic.com).mp3" image="story_content/6mlKViW6iXX.png" title="music" />
+      <resource url="story_content/external_files/Lights(chosic.com).mp3" image="story_content/6JUgY4toxaY.png" title="music" />
     </resources>
   </resource_data>
   <transcript_data />
